@@ -5,7 +5,7 @@ Frontend Developer and Web3 Enthusiast
 --------------------------------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyPortofolio](http://ikhwandev.netlify.app)
+* 🖥️  See my portfolio at [MyPortofolio](https://ikhwanhsn.me)
 * ✉️  You can contact me at [ikhwanulhusna111@gmail.com](mailto:ikhwanulhusna111@gmail.com)
 * 🚀  I'm currently working on [MyProject](https://smartweb-3.my.id)
 * 🧠  I'm learning Next JS and Solidity
