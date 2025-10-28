@@ -7,7 +7,7 @@ Frontend Developer | Fintech & DeFi
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](https://ikhwanhsn.me)
 * ✉️  You can contact me at [ikhwanulhusna111@gmail.com](mailto:ikhwanulhusna111@gmail.com)
-* 🚀  I'm currently working on [MyProject](https://smartweb-3.my.id)
+* 🚀  I'm currently working on [MyProject](https://linktr.ee/smartweb3_id)
 * 🧠  I'm learning Next JS and Solidity
 * 🤝  I'm open to collaborating on new interesting project
 * ⚡  I'm secretly investor...I use my income to make more money via investing
