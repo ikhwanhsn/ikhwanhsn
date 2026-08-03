@@ -1,31 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ikhwanul Husna
-======================================================================================================================================
+# Hi 👋 I'm Ikhwanul Husna
 
-Frontend Developer | Fintech & DeFi
---------------------------------------
+### Building the future of AI Agents.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyPortofolio](https://ikhwanhsn.me)
-* ✉️  You can contact me at [ikhwanulhusna111@gmail.com](mailto:ikhwanulhusna111@gmail.com)
-* 🚀  I'm currently working on [MyProject](https://linktr.ee/smartweb3_id)
-* 🧠  I'm learning Next JS and Solidity
-* 🤝  I'm open to collaborating on new interesting project
-* ⚡  I'm secretly investor...I use my income to make more money via investing
+Founder of **Syra** — building infrastructure where AI agents can own wallets, make decisions, earn revenue, and interact with decentralized finance.
 
-### Skills
+---
 
+## 🚀 What I'm Building
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a><a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a><a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+### 🧠 Syra
+Machine money for agents.
+
+AI infrastructure that enables autonomous agents to trade, analyze markets, execute strategies, and generate revenue on Solana.
+
+### ⚡ S3Labs
+Building products for the agent economy.
+
+Open-source tools, APIs, payment infrastructure, and autonomous systems powering the next generation of AI.
+
+### 📈 UponlyFund
+An AI-powered investment platform focused on discovering opportunities across the Solana ecosystem.
+
+### 🤖 FlowSH Agent
+Autonomous AI agents capable of help maximize revenue creator on X.
+
+### 🚀 TrancePad
+The next generation launchpad helping projects launch and grow within the Robinhood ecosystem.
+
+---
+
+## 🌍 About Me
+
+- 🇮🇩 Based in Indonesia
+- 🧠 AI Agent & Solana Builder
+- ⚡ Founder of S3Labs
+- 💻 Building products that combine AI, crypto, and autonomous finance
+- 🌱 Currently exploring:
+  - Agentic AI
+  - Solana
+  - x402 Payments
+  - MCP Servers
+  - Autonomous Finance
+- 🤝 Open to collaborating on AI infrastructure and Solana projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust" />
 </p>
 
+### Frontend
 
-### Socials
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-<p align="left"> <a href="https://www.facebook.com/ikhwanul.husna.54" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ikhwanhsn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ikhwanhsn21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ikhwanul-husna-873744226" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Backend
 
-### Badges
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker" />
+</p>
 
-<b>My GitHub Stats</b>
+### AI
 
-<a href="http://www.github.com/ikhwanhsn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhwanhsn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- OpenAI
+- Anthropic
+- Gemini
+- MCP
+- AI Agents
+- LangChain
+- x402
+
+### Blockchain
+
+- Solana
+- Anchor
+- web3.js
+- Wallet Adapter
+- SPL Tokens
+- Pump.fun
+- Meteora
+- Raydium
+
+---
+
+## 📫 Connect
+
+- 🌐 https://ikhwanhsn.me
+- 🐦 https://x.com/ikhwanhsn
+- 💼 https://linkedin.com/in/ikhwanul-husna-873744226
+- 📧 ikhwanulhusna111@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ikhwanhsn&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhwanhsn&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhwanhsn&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+> Building the infrastructure where AI agents don't just assist people—they earn, trade, and operate autonomously.
